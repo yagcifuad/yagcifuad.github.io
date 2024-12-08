@@ -5,21 +5,21 @@
     
     
     
-    <link>http://localhost:1313/post/</link>
+    <link>https://yagcifuad.github.io/post/</link>
     <description>Recent content in Posts on Hello Friend</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yagcifuad.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My Second Post</title>
-      <link>http://localhost:1313/post/my-second-post/</link>
+      <link>https://yagcifuad.github.io/post/my-second-post/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/my-second-post/</guid>
+      <guid>https://yagcifuad.github.io/post/my-second-post/</guid>
       <description>
         
           
@@ -39,14 +39,33 @@
     </item>
     
     <item>
-      <title>Hello Friend</title>
-      <link>http://localhost:1313/post/hello/</link>
-      <pubDate>Wed, 17 Sep 1986 00:00:00 +0000</pubDate>
+      <title>Some of My Codes</title>
+      <link>https://yagcifuad.github.io/post/mycodes/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/hello/</guid>
+      <guid>https://yagcifuad.github.io/post/mycodes/</guid>
       <description>
         
-          &lt;img src=&#34;http://localhost:1313/img/hello.jpg&#34;/&gt;
+          &lt;img src=&#34;https://yagcifuad.github.io/img/code.jpg&#34;/&gt;
+          
+        
+        
+        
+          &#34;Hello, friend?&#34; Here is the place I share some of my codes!
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Hello Friend</title>
+      <link>https://yagcifuad.github.io/post/hello/</link>
+      <pubDate>Wed, 17 Sep 1986 00:00:00 +0000</pubDate>
+      
+      <guid>https://yagcifuad.github.io/post/hello/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://yagcifuad.github.io/img/hello.jpg&#34;/&gt;
           
         
         
@@ -59,13 +78,13 @@
     
     <item>
       <title>Hello Friend 2</title>
-      <link>http://localhost:1313/post/mypost/</link>
+      <link>https://yagcifuad.github.io/post/mypost/</link>
       <pubDate>Wed, 17 Sep 1986 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/mypost/</guid>
+      <guid>https://yagcifuad.github.io/post/mypost/</guid>
       <description>
         
-          &lt;img src=&#34;http://localhost:1313/img/hello.jpg&#34;/&gt;
+          &lt;img src=&#34;https://yagcifuad.github.io/img/hello.jpg&#34;/&gt;
           
         
         
