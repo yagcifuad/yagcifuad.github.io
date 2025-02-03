@@ -2,227 +2,227 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Fuad Yagci</title>
-    <link>//localhost:1313/tags/</link>
+    <link>https://yagcifuad.github.io/tags/</link>
     <description>Recent content in Tags on Fuad Yagci</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Jan 2020 17:09:26 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yagcifuad.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docker</title>
-      <link>//localhost:1313/tags/docker/</link>
+      <link>https://yagcifuad.github.io/tags/docker/</link>
       <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
-      <guid>//localhost:1313/tags/docker/</guid>
+      <guid>https://yagcifuad.github.io/tags/docker/</guid>
       <description></description>
     </item>
     <item>
       <title>Javascript</title>
-      <link>//localhost:1313/tags/javascript/</link>
+      <link>https://yagcifuad.github.io/tags/javascript/</link>
       <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
-      <guid>//localhost:1313/tags/javascript/</guid>
+      <guid>https://yagcifuad.github.io/tags/javascript/</guid>
       <description></description>
     </item>
     <item>
       <title>JSON</title>
-      <link>//localhost:1313/tags/json/</link>
+      <link>https://yagcifuad.github.io/tags/json/</link>
       <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
-      <guid>//localhost:1313/tags/json/</guid>
+      <guid>https://yagcifuad.github.io/tags/json/</guid>
       <description></description>
     </item>
     <item>
       <title>Node.js</title>
-      <link>//localhost:1313/tags/node.js/</link>
+      <link>https://yagcifuad.github.io/tags/node.js/</link>
       <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
-      <guid>//localhost:1313/tags/node.js/</guid>
+      <guid>https://yagcifuad.github.io/tags/node.js/</guid>
       <description></description>
     </item>
     <item>
       <title>REST APIs</title>
-      <link>//localhost:1313/tags/rest-apis/</link>
+      <link>https://yagcifuad.github.io/tags/rest-apis/</link>
       <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
-      <guid>//localhost:1313/tags/rest-apis/</guid>
+      <guid>https://yagcifuad.github.io/tags/rest-apis/</guid>
       <description></description>
     </item>
     <item>
       <title>Atlassian Ecosystem</title>
-      <link>//localhost:1313/tags/atlassian-ecosystem/</link>
+      <link>https://yagcifuad.github.io/tags/atlassian-ecosystem/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      <guid>//localhost:1313/tags/atlassian-ecosystem/</guid>
+      <guid>https://yagcifuad.github.io/tags/atlassian-ecosystem/</guid>
       <description></description>
     </item>
     <item>
       <title>Bash/Shell</title>
-      <link>//localhost:1313/tags/bash/shell/</link>
+      <link>https://yagcifuad.github.io/tags/bash/shell/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      <guid>//localhost:1313/tags/bash/shell/</guid>
+      <guid>https://yagcifuad.github.io/tags/bash/shell/</guid>
       <description></description>
     </item>
     <item>
       <title>BOSH</title>
-      <link>//localhost:1313/tags/bosh/</link>
+      <link>https://yagcifuad.github.io/tags/bosh/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      <guid>//localhost:1313/tags/bosh/</guid>
+      <guid>https://yagcifuad.github.io/tags/bosh/</guid>
       <description></description>
     </item>
     <item>
       <title>DevOps</title>
-      <link>//localhost:1313/tags/devops/</link>
+      <link>https://yagcifuad.github.io/tags/devops/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      <guid>//localhost:1313/tags/devops/</guid>
+      <guid>https://yagcifuad.github.io/tags/devops/</guid>
       <description></description>
     </item>
     <item>
       <title>Java</title>
-      <link>//localhost:1313/tags/java/</link>
+      <link>https://yagcifuad.github.io/tags/java/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      <guid>//localhost:1313/tags/java/</guid>
+      <guid>https://yagcifuad.github.io/tags/java/</guid>
       <description></description>
     </item>
     <item>
       <title>Monit</title>
-      <link>//localhost:1313/tags/monit/</link>
+      <link>https://yagcifuad.github.io/tags/monit/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      <guid>//localhost:1313/tags/monit/</guid>
+      <guid>https://yagcifuad.github.io/tags/monit/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>//localhost:1313/tags/python/</link>
+      <link>https://yagcifuad.github.io/tags/python/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      <guid>//localhost:1313/tags/python/</guid>
+      <guid>https://yagcifuad.github.io/tags/python/</guid>
       <description></description>
     </item>
     <item>
       <title>Xml/Xslt</title>
-      <link>//localhost:1313/tags/xml/xslt/</link>
+      <link>https://yagcifuad.github.io/tags/xml/xslt/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      <guid>//localhost:1313/tags/xml/xslt/</guid>
+      <guid>https://yagcifuad.github.io/tags/xml/xslt/</guid>
       <description></description>
     </item>
     <item>
       <title>Agile</title>
-      <link>//localhost:1313/tags/agile/</link>
+      <link>https://yagcifuad.github.io/tags/agile/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/agile/</guid>
+      <guid>https://yagcifuad.github.io/tags/agile/</guid>
       <description></description>
     </item>
     <item>
       <title>CI/CD Pipelines</title>
-      <link>//localhost:1313/tags/ci/cd-pipelines/</link>
+      <link>https://yagcifuad.github.io/tags/ci/cd-pipelines/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/ci/cd-pipelines/</guid>
+      <guid>https://yagcifuad.github.io/tags/ci/cd-pipelines/</guid>
       <description></description>
     </item>
     <item>
       <title>Continuous Delivery</title>
-      <link>//localhost:1313/tags/continuous-delivery/</link>
+      <link>https://yagcifuad.github.io/tags/continuous-delivery/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/continuous-delivery/</guid>
+      <guid>https://yagcifuad.github.io/tags/continuous-delivery/</guid>
       <description></description>
     </item>
     <item>
       <title>Continuous Integration</title>
-      <link>//localhost:1313/tags/continuous-integration/</link>
+      <link>https://yagcifuad.github.io/tags/continuous-integration/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/continuous-integration/</guid>
+      <guid>https://yagcifuad.github.io/tags/continuous-integration/</guid>
       <description></description>
     </item>
     <item>
       <title>Culture</title>
-      <link>//localhost:1313/tags/culture/</link>
+      <link>https://yagcifuad.github.io/tags/culture/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/culture/</guid>
+      <guid>https://yagcifuad.github.io/tags/culture/</guid>
       <description></description>
     </item>
     <item>
       <title>Apache</title>
-      <link>//localhost:1313/tags/apache/</link>
+      <link>https://yagcifuad.github.io/tags/apache/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
-      <guid>//localhost:1313/tags/apache/</guid>
+      <guid>https://yagcifuad.github.io/tags/apache/</guid>
       <description></description>
     </item>
     <item>
       <title>Redirect</title>
-      <link>//localhost:1313/tags/redirect/</link>
+      <link>https://yagcifuad.github.io/tags/redirect/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
-      <guid>//localhost:1313/tags/redirect/</guid>
+      <guid>https://yagcifuad.github.io/tags/redirect/</guid>
       <description></description>
     </item>
     <item>
       <title>Rewrite</title>
-      <link>//localhost:1313/tags/rewrite/</link>
+      <link>https://yagcifuad.github.io/tags/rewrite/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
-      <guid>//localhost:1313/tags/rewrite/</guid>
+      <guid>https://yagcifuad.github.io/tags/rewrite/</guid>
       <description></description>
     </item>
     <item>
       <title>Ssl</title>
-      <link>//localhost:1313/tags/ssl/</link>
+      <link>https://yagcifuad.github.io/tags/ssl/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
-      <guid>//localhost:1313/tags/ssl/</guid>
+      <guid>https://yagcifuad.github.io/tags/ssl/</guid>
       <description></description>
     </item>
     <item>
       <title>Web Development</title>
-      <link>//localhost:1313/tags/web-development/</link>
+      <link>https://yagcifuad.github.io/tags/web-development/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
-      <guid>//localhost:1313/tags/web-development/</guid>
+      <guid>https://yagcifuad.github.io/tags/web-development/</guid>
       <description></description>
     </item>
     <item>
       <title>Atlassian Developer Ecosystem</title>
-      <link>//localhost:1313/tags/atlassian-developer-ecosystem/</link>
+      <link>https://yagcifuad.github.io/tags/atlassian-developer-ecosystem/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/atlassian-developer-ecosystem/</guid>
+      <guid>https://yagcifuad.github.io/tags/atlassian-developer-ecosystem/</guid>
       <description></description>
     </item>
     <item>
       <title>Bamboo</title>
-      <link>//localhost:1313/tags/bamboo/</link>
+      <link>https://yagcifuad.github.io/tags/bamboo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/bamboo/</guid>
+      <guid>https://yagcifuad.github.io/tags/bamboo/</guid>
       <description></description>
     </item>
     <item>
       <title>Bitbucket</title>
-      <link>//localhost:1313/tags/bitbucket/</link>
+      <link>https://yagcifuad.github.io/tags/bitbucket/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/bitbucket/</guid>
+      <guid>https://yagcifuad.github.io/tags/bitbucket/</guid>
       <description></description>
     </item>
     <item>
       <title>Confluence</title>
-      <link>//localhost:1313/tags/confluence/</link>
+      <link>https://yagcifuad.github.io/tags/confluence/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/confluence/</guid>
+      <guid>https://yagcifuad.github.io/tags/confluence/</guid>
       <description></description>
     </item>
     <item>
       <title>JIRA</title>
-      <link>//localhost:1313/tags/jira/</link>
+      <link>https://yagcifuad.github.io/tags/jira/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/jira/</guid>
+      <guid>https://yagcifuad.github.io/tags/jira/</guid>
       <description></description>
     </item>
     <item>
       <title>JQuery</title>
-      <link>//localhost:1313/tags/jquery/</link>
+      <link>https://yagcifuad.github.io/tags/jquery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/jquery/</guid>
+      <guid>https://yagcifuad.github.io/tags/jquery/</guid>
       <description></description>
     </item>
     <item>
       <title>Maven</title>
-      <link>//localhost:1313/tags/maven/</link>
+      <link>https://yagcifuad.github.io/tags/maven/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/maven/</guid>
+      <guid>https://yagcifuad.github.io/tags/maven/</guid>
       <description></description>
     </item>
     <item>
       <title>Spring</title>
-      <link>//localhost:1313/tags/spring/</link>
+      <link>https://yagcifuad.github.io/tags/spring/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/spring/</guid>
+      <guid>https://yagcifuad.github.io/tags/spring/</guid>
       <description></description>
     </item>
   </channel>
