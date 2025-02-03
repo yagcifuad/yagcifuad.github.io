@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Fuad Yagci</title>
+    <link>yagcifuad.github.io/tags/</link>
+    <description>Recent content in Tags on Fuad Yagci</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2020 17:09:26 +0000</lastBuildDate>
+    <atom:link href="yagcifuad.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker</title>
+      <link>yagcifuad.github.io/tags/docker/</link>
+      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      <guid>yagcifuad.github.io/tags/docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Javascript</title>
+      <link>yagcifuad.github.io/tags/javascript/</link>
+      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      <guid>yagcifuad.github.io/tags/javascript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JSON</title>
+      <link>yagcifuad.github.io/tags/json/</link>
+      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      <guid>yagcifuad.github.io/tags/json/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Node.js</title>
+      <link>yagcifuad.github.io/tags/node.js/</link>
+      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      <guid>yagcifuad.github.io/tags/node.js/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>REST APIs</title>
+      <link>yagcifuad.github.io/tags/rest-apis/</link>
+      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      <guid>yagcifuad.github.io/tags/rest-apis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Atlassian Ecosystem</title>
+      <link>yagcifuad.github.io/tags/atlassian-ecosystem/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <guid>yagcifuad.github.io/tags/atlassian-ecosystem/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bash/Shell</title>
+      <link>yagcifuad.github.io/tags/bash/shell/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <guid>yagcifuad.github.io/tags/bash/shell/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>BOSH</title>
+      <link>yagcifuad.github.io/tags/bosh/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <guid>yagcifuad.github.io/tags/bosh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DevOps</title>
+      <link>yagcifuad.github.io/tags/devops/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <guid>yagcifuad.github.io/tags/devops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Java</title>
+      <link>yagcifuad.github.io/tags/java/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <guid>yagcifuad.github.io/tags/java/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Monit</title>
+      <link>yagcifuad.github.io/tags/monit/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <guid>yagcifuad.github.io/tags/monit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>yagcifuad.github.io/tags/python/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <guid>yagcifuad.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Xml/Xslt</title>
+      <link>yagcifuad.github.io/tags/xml/xslt/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <guid>yagcifuad.github.io/tags/xml/xslt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Agile</title>
+      <link>yagcifuad.github.io/tags/agile/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>yagcifuad.github.io/tags/agile/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CI/CD Pipelines</title>
+      <link>yagcifuad.github.io/tags/ci/cd-pipelines/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>yagcifuad.github.io/tags/ci/cd-pipelines/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Continuous Delivery</title>
+      <link>yagcifuad.github.io/tags/continuous-delivery/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>yagcifuad.github.io/tags/continuous-delivery/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Continuous Integration</title>
+      <link>yagcifuad.github.io/tags/continuous-integration/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>yagcifuad.github.io/tags/continuous-integration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Culture</title>
+      <link>yagcifuad.github.io/tags/culture/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>yagcifuad.github.io/tags/culture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Apache</title>
+      <link>yagcifuad.github.io/tags/apache/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      <guid>yagcifuad.github.io/tags/apache/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Redirect</title>
+      <link>yagcifuad.github.io/tags/redirect/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      <guid>yagcifuad.github.io/tags/redirect/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rewrite</title>
+      <link>yagcifuad.github.io/tags/rewrite/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      <guid>yagcifuad.github.io/tags/rewrite/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ssl</title>
+      <link>yagcifuad.github.io/tags/ssl/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      <guid>yagcifuad.github.io/tags/ssl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web Development</title>
+      <link>yagcifuad.github.io/tags/web-development/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      <guid>yagcifuad.github.io/tags/web-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Atlassian Developer Ecosystem</title>
+      <link>yagcifuad.github.io/tags/atlassian-developer-ecosystem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>yagcifuad.github.io/tags/atlassian-developer-ecosystem/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bamboo</title>
+      <link>yagcifuad.github.io/tags/bamboo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>yagcifuad.github.io/tags/bamboo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bitbucket</title>
+      <link>yagcifuad.github.io/tags/bitbucket/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>yagcifuad.github.io/tags/bitbucket/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Confluence</title>
+      <link>yagcifuad.github.io/tags/confluence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>yagcifuad.github.io/tags/confluence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JIRA</title>
+      <link>yagcifuad.github.io/tags/jira/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>yagcifuad.github.io/tags/jira/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JQuery</title>
+      <link>yagcifuad.github.io/tags/jquery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>yagcifuad.github.io/tags/jquery/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Maven</title>
+      <link>yagcifuad.github.io/tags/maven/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>yagcifuad.github.io/tags/maven/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spring</title>
+      <link>yagcifuad.github.io/tags/spring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>yagcifuad.github.io/tags/spring/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
